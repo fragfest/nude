@@ -1,0 +1,25 @@
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+h1, h2, h3, h4 {
+  color: darkblue;
+}
+
+h5, p, thead {
+  color: slategrey;
+}
+
+.fa-trash {
+  color: red;
+}
